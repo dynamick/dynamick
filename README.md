@@ -2,7 +2,6 @@
 <h3 align="center">Passionate Web & Software Developer</h3>
 
 <p align="center">
-  <a href="https://www.dynamick.it"><img src="https://img.shields.io/badge/Blog-Dynamick-blue?style=flat-square&logo=wordpress"></a>
   <a href="https://twitter.com/dynamick"><img src="https://img.shields.io/badge/Twitter-@dynamick-1DA1F2?style=flat-square&logo=twitter"></a>
   <a href="mailto:michele@dynamick.it"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail"></a>
 </p>
@@ -32,14 +31,17 @@
 
 ### 📌 Featured Projects
 
-🌟 [**Multiple Filter Masonry**](https://github.com/dynamick/multiple-filter-masonry)  
-🔹 A script that extends Masonry.js with multiple filters.
+🌟 [**Evently**](https://github.com/dynamick/evently)  
+🔹 A multi-tenant app for generating event mini sites with dedicated domain
 
 🌟 [**Monthly Trend**](https://github.com/dynamick/monthly-trend)  
 🔹 Simple UI months selector.
 
 🌟 [**Ecoute macOS**](https://github.com/dynamick/ecoute-macos)  
 🔹 A real-time transcription tool powered by AI.
+
+🌟 [**Multiple Filter Masonry**](https://github.com/dynamick/multiple-filter-masonry)  
+🔹 A script that extends Masonry.js with multiple filters.
 
 ---
 
@@ -53,5 +55,5 @@
 ---
 
 <p align="center">
-  🚀 Connect with me at <a href="https://www.dynamick.it">dynamick.it</a> and explore my work!  
+  🚀 Connect with me at <a href="mailto:info@dynamick.it">dynamick.it</a> and explore my work!  
 </p>
