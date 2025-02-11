@@ -1,3 +1,5 @@
+<p align="center"><img src="/standard.gif" /></p>
+
 <h1 align="center">Hi, I'm Michele Gobbi 👋</h1>
 <h3 align="center">Passionate Web & Software Developer</h3>
 
